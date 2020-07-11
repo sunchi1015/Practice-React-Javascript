@@ -3,7 +3,7 @@
 
 # Magic numbers - for number create constant or enums
 
-# Deep nesting
+# Avoid Deep nesting
 
 # Stop writing comments
 
