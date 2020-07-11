@@ -1,28 +1,3 @@
-# Practice-React-Javascript
-
-Created with CodeSandbox
-
-<!-- Some Usefull -->
-
-# Type script deep dive course.
-
-# Understanding Typescript-2020 Edition
-
-# Instructor Name - Maximilian Schwarzmüller.
-
-# Start date - 12/03/2020
-
-# Completed date -
-
-# Status - Section 9 - video 121 - Running
-
-# Once course completed then push to github own account.
-
-# while reading create notes for each section
-
-# Once section completed repeate all the points.(Section Revision).
-
-# ===============================================================================================================
 
 # ======== 11 - JS best practices ================
 
