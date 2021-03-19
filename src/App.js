@@ -1,11 +1,13 @@
-import Person from './Component/Person';
+// import Person from './Component/Person';
+import CheckTest from './Component/checkbox-test';
 
 const App = () => {
   return (
     <div>
       App JS
       {/* <Person classOne="classOne" /> */}
-      <Person />
+      {/* <Person /> */}
+      <CheckTest />
     </div>
   );
 };
