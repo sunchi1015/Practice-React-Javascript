@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './styles.css';
-import ShoppingCart from './component/shoppinf-cart';
+// import './styles.css';
+import ShoppingCart from './shoiping-cart';
 
 class App extends Component {
   state = {

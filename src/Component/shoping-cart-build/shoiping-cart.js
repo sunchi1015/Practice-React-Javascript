@@ -7,6 +7,11 @@ const ShoppingCart = props => {
       <Item key="" decItem={(id, type) => props.itemRemoved(id, type)} incItem={(id, type) => props.itemAdded(id, type)} item={item} />
     );
   });
-  return <>{itemList}</>;
+  return (
+    <>
+      <h4>Total in Cart</h4>
+      {itemList}
+    </>
+  );
 };
 export default ShoppingCart;

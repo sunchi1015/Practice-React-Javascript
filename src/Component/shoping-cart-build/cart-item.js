@@ -3,8 +3,7 @@ import React from 'react';
 const Item = props => {
   const decItem = () => {};
   return (
-    <div>
-      <h3> Total Item in cart: {props.count} </h3>
+    <div style={{ marginBottom: '20px' }}>
       <button onClick={() => props.decItem(props.item.id, 'dec')}>-</button>
       <span>{props.item.name}</span>
       <span>{props.item.price}</span>
